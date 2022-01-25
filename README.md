@@ -5,8 +5,7 @@
 
 =======
 教程网址:https:syjun.vip
-test
->>>>>>> Stashed changes
+
 # Python反反爬系列
 
  1. [JS混淆---源码乱码][1]
@@ -16,11 +15,11 @@ test
  5. [JS混淆---回溯][5]
  6. [动态字体---随风漂移][6]
  7. [验证码---图文点击][7]
- 
-  [1]: https://syjun.vip/archives/278.html
-  [2]: https://syjun.vip/archives/279.html
-  [3]: https://syjun.vip/archives/280.html
-  [4]: https://syjun.vip/archives/281.html
-  [5]: https://syjun.vip/archives/282.html
-  [6]: https://syjun.vip/archives/283.html
-  [7]: https://syjun.vip/archives/284.html
+
+[1]: https://syjun.vip/archives/278.html
+[2]: https://syjun.vip/archives/279.html
+[3]: https://syjun.vip/archives/280.html
+[4]: https://syjun.vip/archives/281.html
+[5]: https://syjun.vip/archives/282.html
+[6]: https://syjun.vip/archives/283.html
+[7]: https://syjun.vip/archives/284.html
